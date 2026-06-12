@@ -20,3 +20,6 @@
 ## Future Improvements
 
 ## Screenshots
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
