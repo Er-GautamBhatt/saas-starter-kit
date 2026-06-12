@@ -1,7 +1,22 @@
-README
-Architecture diagram
-Folder structure
-Features
-API design
-Database schema
-Docker setup
+# Project Name
+  some data  
+  another data  
+## Overview
+
+## Problem Statement
+
+## Architecture
+
+## Features
+
+## Technology Stack
+
+## Database Design
+
+## API Design
+
+## Deployment Strategy
+
+## Future Improvements
+
+## Screenshots
